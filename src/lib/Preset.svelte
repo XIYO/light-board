@@ -67,7 +67,7 @@
         align-items: center;
         justify-content: center;
         block-size: 100dvh;
-        background-color: #575757;
+        backxground-color: #575757;
         overflow: hidden;
         gap: 20px; /* 요소 간격 */
         padding: 20px;
