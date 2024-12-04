@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Jua&family=Noto+Sans+KR:wght@100..900&display=swap');
+body {
+    margin: unset;
+    background-color: #575757;
+
+    font-family: "Jua", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    block-size: 100dvh;
+    inline-size: 100dvw;
+}
+
